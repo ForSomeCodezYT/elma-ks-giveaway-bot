@@ -1,0 +1,23 @@
+{
+  "name": "elma-ks-giveaway-bot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./src/bot.js",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "dotenv": "^8.2.0",
+    "figlet": "^1.5.0",
+    "moment": "^2.27.0",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.2",
+    "node-fetch": "^2.6.0",
+    "regex": "^0.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "mido": "nodemon ./src/bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
